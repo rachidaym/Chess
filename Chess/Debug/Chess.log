@@ -1,0 +1,8 @@
+﻿  Game.cpp
+C:\Users\mehar\source\repos\Chess\Chess\Game.cpp(109,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\mehar\source\repos\Chess\Chess\Game.cpp(371,47): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Chess.vcxproj -> C:\Users\mehar\source\repos\Chess\Debug\Chess.exe
